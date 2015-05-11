@@ -1,4 +1,4 @@
-MUnit Selenium Sample Project
+QUnit Selenium Sample Project
 =============================
 
 Run maven to start up a jetty server and run qunit javascript tests.
@@ -12,4 +12,7 @@ Release Notes
 -------------
 
 May 11, 2015
-- Updated software versions (junit, selenium, munit, sinon)
+- Updated software versions (junit, selenium, munit)
+Author
+-------------
+Manas Kumar PRADHAN
